@@ -34,7 +34,7 @@ class Olimpo  {
         }
     }
     
-    static func load(url:String) -> ActionBuilder {
+    static func load(url:String) -> ActionBuilder {.
         let actionBuilder:ActionBuilder = ActionBuilder().build();
         actionBuilder.url(url);
         return actionBuilder;
