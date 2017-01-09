@@ -7,8 +7,7 @@
 //
 
 import XCTest
-@testable import olimpo
-
+@testable import olimpo.
 class olimpoTests: XCTestCase {
     
     override func setUp() {
